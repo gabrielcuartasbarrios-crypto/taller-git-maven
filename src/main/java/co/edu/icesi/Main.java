@@ -10,5 +10,7 @@ public class Main {
         String nombre = sc.nextLine();
         System.out.println("Hola, " + nombre + "!");
 
+        System.out.println("Adiós, " + nombre + ". Nos vemos luego.");
+
     }
 }
